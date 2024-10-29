@@ -1,6 +1,9 @@
 # dayLister
 指定した範囲の指定した曜日の範囲の日付の一覧を作る
 
+![daylister](https://github.com/user-attachments/assets/a2adeb78-6622-4ed6-8801-6fc6bb988414)
+
+
 ## 具体例
 
 日付の指定を2024/10/1～2024/10/31として、曜日を水曜日から金曜日にすると、次のような日付の一覧ができる
